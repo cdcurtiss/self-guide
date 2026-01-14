@@ -12,7 +12,7 @@ Welcome to the central documentation repository for Pygmalion Festival staff. Th
 
 ## 📚 Documentation Library
 
-### [➡️ Event Operations Manual & Run of Show](operations-manual.md)
+### [➡️ Event Operations Manual & Run of Show](operations-manual.html)
 * **Audience:** Domain Directors, Stage Managers, Volunteers
 * **Contains:**
     * Incident Escalation Protocols (Chain of Command)
