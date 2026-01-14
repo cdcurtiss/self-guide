@@ -1,8 +1,3 @@
----
-layout: default
-title: Operations Hub
----
-
 # Pygmalion Festival Operations Hub
 
 **Current Status:** LIVE | **Version:** 2.4  
@@ -12,7 +7,7 @@ Welcome to the central documentation repository for Pygmalion Festival staff. Th
 
 ## 📚 Documentation Library
 
-### [➡️ Event Operations Manual & Run of Show](/ops-manual/)
+### [➡️ Event Operations Manual & Run of Show](/operations-manual/)
 * **Audience:** Domain Directors, Stage Managers, Volunteers
 * **Contains:**
     * Incident Escalation Protocols (Chain of Command)
